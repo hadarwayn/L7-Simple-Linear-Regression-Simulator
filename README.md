@@ -8,7 +8,7 @@ This project is a Python script that demonstrates a fundamental machine learning
 This approach simulates how a machine "learns" by iteratively trying solutions and selecting the one that performs best.
 
 
-### Expected Results
+## Expected Results
 
 With example of 1,000 points and 50 experiments:
 You will see wrong results. Probably the resulted line will not close to reality.
@@ -17,7 +17,7 @@ With example of 10,000 points and 10,000 experiments, it took 3 seconds but resu
 You will see very good prediction line.
 
 
-### 🚀 How to Run
+## 🚀 How to Run
 
 Follow these steps to run the simulator on your own machine.
 
