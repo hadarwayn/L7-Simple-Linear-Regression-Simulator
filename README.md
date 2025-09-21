@@ -25,9 +25,10 @@ If you are on a Debian/Ubuntu-based system (like WSL), you can install them with
 sudo apt update
 sudo apt install python3-numpy python3-matplotlib
 
+### Results
 
 With example of 1,000 points and 50 experiments:
-<img width="1452" height="605" alt="Image20250921191346" src="https://github.com/user-attachments/assets/a77c1118-c713-49f6-8a19-7875aa757e52" />
+You will see wrong results. Probably the resulted line will not close to reality.
 
 With example of 10,000 points and 10,000 experiments, it took 3 seconds but results are great:
-<img width="1452" height="605" alt="Image20250921191346" src="https://github.com/user-attachments/assets/7e1a8315-b441-4ab1-b1e7-bd8da314c2fa" />
+You will see very good prediction line.
