@@ -9,7 +9,7 @@ This approach simulates how a machine "learns" by iteratively trying solutions a
 
 
 
-## 🚀 How to Run
+### 🚀 How to Run
 
 Follow these steps to run the simulator on your own machine.
 
