@@ -13,6 +13,7 @@ This approach simulates how a machine "learns" by iteratively trying solutions a
 
 Follow these steps to run the simulator on your own machine.
 
+
 ### Prerequisites
 
 You'll need Python 3 and the following packages installed:
@@ -24,6 +25,7 @@ If you are on a Debian/Ubuntu-based system (like WSL), you can install them with
 ```bash
 sudo apt update
 sudo apt install python3-numpy python3-matplotlib
+
 
 ### Results
 
